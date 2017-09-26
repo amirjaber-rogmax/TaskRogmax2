@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TaskRogmax2</string>
+    <string name="create_pet">Create Pet</string>
+    <string name="create_person">Create Person</string>
+    <string name="view">View</string>
+    <string name="select_pet">Select pet and choose its type</string>
+    <string name="select_type">Select Type:</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="add_pet">Add Pet</string>
+    <string-array name="type_spinner">
+        <item></item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Snake</item>
+    </string-array>
+    <!--<string-array name="cat">-->
+        <!--<item>black</item>-->
+        <!--<item>white</item>-->
+        <!--<item>orange</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="dog">-->
+        <!--<item>bulldog</item>-->
+        <!--<item>pitbull</item>-->
+        <!--<item>poodle</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="snake">-->
+        <!--<item>long</item>-->
+        <!--<item>short</item>-->
+    <!--</string-array>-->
+</resources>
